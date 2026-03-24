@@ -22,12 +22,6 @@ I focus on shipping end-to-end systems — from raw text ingestion to containeri
 
 ---
 
-## 🔗 The pipeline I build
-
-`PDF / text` → `NER` → `Entity linking` → `Knowledge graph` → `LLM + RAG` → `FastAPI + 🐳`
-
----
-
 ## 📦 Pinned projects
 > Each ships a working service, not just a notebook.
 
