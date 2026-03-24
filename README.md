@@ -20,8 +20,6 @@ ML Engineer at **Swantec** building predictive pipelines for simulation software
 MSc in Business Analytics at **DTU**, specializing in NLP, Knowledge Graphs, and LLMOps.
 I focus on shipping end-to-end systems — from raw text ingestion to containerized, production-ready APIs.
 
-> LLMs alone hallucinate and go stale. Knowledge graphs provide structured, verifiable facts. Retrieval connects them to live information. The systems worth building sit at the intersection of all three.
-
 ---
 
 ## 🔗 The pipeline I build
